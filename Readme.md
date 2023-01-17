@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
-* Студент: [Неопознанный енот](https://up.htmlacademy.ru/htmlcss/36/user/2250439).
-* Наставник: `Неизвестно`.
+* Студент: [Василий Копкарев](https://htmlacademy.ru/profile/id2250439).
+* Наставник: [Сергей Остаповец](https://htmlacademy.ru/profile/seraphim).
 
 ---
 
